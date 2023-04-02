@@ -113,7 +113,7 @@ const App = () => {
       <p>
         <b>Langrange Interpolation:</b>
       </p>
-      <img src="../public/li.jpg" alt="langrange" />
+      <img src="https://qph.cf2.quoracdn.net/main-qimg-d417898b1a62209a5ef29e475c76e01e-pjlq" alt="langrange" />
       <p>
         <b>Input:</b> n+1 points (x<sub>i</sub>, y<sub>i</sub>) on a curve over
         F<sub>q</sub>, where q is a prime number
